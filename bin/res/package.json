@@ -1,0 +1,113 @@
+{
+    "moduleInfo": [
+        {
+            "name": "base",
+            "language": [],
+            "path": "/Users/xuquan/Documents/newslots/frameworks/cocos2d-html5/",
+            "outDir": "publish/base/",
+            "xml": "./bin/res/build.xml",
+            "ispackage": true
+        },
+        {
+            "name": "common",
+            "language": [
+                "zh",
+                "en",
+                "jp",
+                "kr"
+            ],
+            "path": "/Users/xuquan/Documents/newslots/src/",
+            "outDir": "publish/common/",
+            "commonJsArr": [
+                "src/commonserver.js",
+                "src/strings.js",
+                "src/common/commontype.js",
+                "src/commonnotice.js",
+                "src/resource.js",
+                "src/common/resource.js",
+                "src/resource_push.js",
+                "src/lib/base.js",
+                "src/lib/websocket.js",
+                "src/lib/wheel.js",
+                "src/lib/wheel2.js",
+                "src/lib/module/gamemodulescene1.js",
+                "src/lib/module/gamemodulewin3.js",
+                "src/lib/module/gamemodulehelp1.js",
+                "src/lib/module/gamemodulerandom1.js",
+                "src/net/cmd/cmddef.js",
+                "src/net/msg/msgdef.js",
+                "src/net/wsclient.js",
+                "src/net/cmd/base/keepalive.js",
+                "src/net/msg/base/keepaliveret.js",
+                "src/net/msg/base/cmdret.js",
+                "src/net/msg/base/notice.js",
+                "src/net/msg/base/noticemsg2.js",
+                "src/net/cmd/account/login.js",
+                "src/net/cmd/account/plogin.js",
+                "src/net/cmd/account/flblogin.js",
+                "src/net/cmd/account/reg.js",
+                "src/net/cmd/account/tokenlogin.js",
+                "src/net/cmd/account/guestlogin.js",
+                "src/net/msg/user/userbaseinfo.js",
+                "src/net/msg/hall/gamelist.js",
+                "src/net/msg/hall/adinfo.js",
+                "src/net/cmd/game/comeingame.js",
+                "src/net/cmd/game/comeingameex.js",
+                "src/net/msg/game/symbolstripes.js",
+                "src/net/msg/game/paytables.js",
+                "src/net/msg/game/geninit.js",
+                "src/net/cmd/game/spin.js",
+                "src/net/cmd/game/flbspin.js",
+                "src/net/msg/game/spinresult.js",
+                "src/net/cmd/game/leftgame.js",
+                "src/net/cmd/sgame/sgamectrl.js",
+                "src/net/msg/sgame/sgameinfo.js",
+                "src/net/msg/game/gameinfo.js",
+                "src/net/cmd/game/spin2.js",
+                "src/net/cmd/game/comeingame2.js",
+                "src/net/cmd/game/leftgame2.js",
+                "src/net/cmd/game/gamectrl2.js",
+                "src/net/cmd/game/comeingame3.js",
+                "src/net/cmd/game/gamectrl3.js",
+                "src/net/msg/game/gameuserinfo.js",
+                "src/net/msg/game/gamemoduleinfo.js",
+                "src/net/msg/game/commonjackpot.js",
+                "src/net/msg/game/wincommonjackpot.js",
+                "src/net/cmd/game/reqcommonjackpot.js",
+                "src/net/msg/game/gamecfg.js",
+                "src/net/msg/hall/gamecodeinfo.js",
+                "src/net/cmd/hall/getfreecash.js",
+                "src/commonjackpot.js",
+                "src/common/layer/giftgame.js",
+                "src/common/layer/jackpot.js",
+                "src/common/layer/menubar.js",
+                "src/gamemgr.js",
+                "src/gamescene.js"
+            ],
+            "noseedfiles": [
+                "src/config.js",
+                "src/LoaderLayer.js",
+                "src/LoaderManager.js",
+                "src/MaskLayer.js",
+                "src/UpdateManager.js",
+                "src/resource_push1.js",
+                "src/resource1.js",
+                "src/hall_constant.js",
+                "src/common/resource1.js"
+            ],
+            "ispackage": true
+        },
+        {
+            "name": "game1",
+            "language": [
+                "zh"
+            ],
+            "gamelist": [
+                "train2"
+            ],
+            "path": "/Users/xuquan/Documents/newslots/",
+            "outDir": "publish/",
+            "ispackage": true
+        }
+    ]
+}

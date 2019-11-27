@@ -1,0 +1,17 @@
+{
+  "name": "zjq",
+  "description": "zjq tools.",
+  "version": "1.0.0",
+  "dependencies": {
+    "@types/node": "^12.12.11",
+    "@types/uglify-js": "^3.0.4",
+    "@types/xml2js": "^0.4.5",
+    "module-alias": "^2.2.2",
+    "silly-datetime": "^0.1.2",
+    "utils_xq": "^1.0.1"
+  },
+  "devDependencies": {
+    "uglify-js": "*",
+    "xml2js": "*"
+  }
+}
